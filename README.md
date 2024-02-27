@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: VAISHNAVI S </h3>
+<h3>Register Number/:212222230165 </h3>
 
 
 <h3>AIM:</h3>
@@ -40,8 +40,12 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-<h3>PROGRAM:</h3>
-<p>
+
+
+### program:
+
+
+```
 import random
 import time
 class Thing:
@@ -224,7 +228,14 @@ print(environment.status)
 environment.run(steps=10)
 print(environment.status)
 print(agent.performance)
-</p>
-<h3>RESULT:</h3>
-<p>Developing AI Agent with PEAS is executed successfully.</p>
+```
+
+### OUTPUT:
+![Screenshot 2024-02-27 185352](https://github.com/Vaishnavi-saravanan/19AI405ExpNo1/assets/118541897/c367e96b-ea02-45d3-9aab-9a28195ab45a)
+
+
+### RESULT:
+Thus,the program for vaccum cleaner ai agent is executed successfully.
+
+
 
