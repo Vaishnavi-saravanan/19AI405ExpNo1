@@ -40,8 +40,8 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-###PROGRAM:
-```
+<h3>PROGRAM:</h3>
+<p>
 import random
 import time
 class Thing:
@@ -224,6 +224,7 @@ print(environment.status)
 environment.run(steps=10)
 print(environment.status)
 print(agent.performance)
-```
-###RESULT:
-Developing AI Agent with PEAS is executed successfully.
+</p>
+<h3>RESULT:</h3>
+<p>Developing AI Agent with PEAS is executed successfully.</p>
+
